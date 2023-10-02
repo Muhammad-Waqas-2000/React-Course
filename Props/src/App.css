@@ -1,0 +1,9 @@
+.Prop{
+    display: flex;
+    flex-direction: row;
+}
+.body{
+    height: 100px;
+    width: 100px;
+
+}
