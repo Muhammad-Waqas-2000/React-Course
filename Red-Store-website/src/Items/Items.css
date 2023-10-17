@@ -1,0 +1,16 @@
+.col_4{
+    flex-basis: 25%;
+    padding: 10px;
+    min-width: 200px;
+    margin-bottom: 50px;
+}
+.col_4 img{
+    width: 200px;
+}
+h4{
+    color: #555;
+    font-weight: normal;
+}
+.col_4 p{
+    font-size: 14px;
+}
